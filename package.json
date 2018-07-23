@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Bladealex/mfalejandro/issues"
   },
-  "homepage": "https://github.com/Bladealex/mfalejandro#readme"
+  "homepage": "https://github.com/Bladealex/mfalejandro#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
